@@ -2,7 +2,7 @@
 
 This project is a modern, visually stunning analytics dashboard built as part of the AI Vibe Coder challenge for the Founding Engineer role at ADmybrand.
 
-**Live Demo URL:** [**YOUR_LIVE_DEMO_URL**](https://YOUR_LIVE_DEMO_URL) <-- *Replace with your Vercel link after deployment!*
+**Live Demo URL:** [**YOUR_LIVE_DEMO_URL**]((https://admybrand-dashboard-vedang.vercel.app/)) <-- *Replace with your Vercel link after deployment!*
 
 ---
 
@@ -16,10 +16,10 @@ This dashboard was built to be both feature-rich and aesthetically pleasing, wit
     * A **Line Chart** for revenue overview.
     * A **Donut Chart** for user demographics.
     * A **Data Table** with sorting, filtering, and pagination.
-* [cite_start]**Key Metrics Overview:** Features prominent metric cards for at-a-glance insights into Revenue, Users, Conversions, and Growth. [cite: 1]
-* [cite_start]**Dark/Light Mode:** A fully functional theme toggle for user preference. [cite: 1]
-* [cite_start]**Loading States:** Includes loading skeletons to ensure a smooth user experience while data is being "fetched". [cite:1]
-* [cite_start]**Responsive Design:** The interface is optimized for desktop, tablet, and mobile views. [cite: 1]
+* **Key Metrics Overview:** Features prominent metric cards for at-a-glance insights into Revenue, Users, Conversions, and Growth. 
+* **Dark/Light Mode:** A fully functional theme toggle for user preference.
+* **Loading States:** Includes loading skeletons to ensure a smooth user experience while data is being "fetched". 
+* **Responsive Design:** The interface is optimized for desktop, tablet, and mobile views.
 
 ---
 
