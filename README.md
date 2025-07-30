@@ -2,7 +2,7 @@
 
 This project is a modern, visually stunning analytics dashboard built as part of the AI Vibe Coder challenge for the Founding Engineer role at ADmybrand.
 
-**Live Demo URL:** [**YOUR_LIVE_DEMO_URL**]((https://admybrand-dashboard-vedang.vercel.app/)) <-- *Replace with your Vercel link after deployment!*
+**Live Demo URL:** [**YOUR_LIVE_DEMO_URL**](https://admybrand-dashboard-vedang.vercel.app/) <-- *Replace with your Vercel link after deployment!*
 
 ---
 
